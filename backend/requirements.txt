@@ -1,0 +1,12 @@
+fastapi
+groq
+python-multipart
+pydantic
+pydantic-settings
+orjson
+python-dateutil
+tzdata
+itsdangerous
+upstash-redis
+tenacity
+uvicorn
